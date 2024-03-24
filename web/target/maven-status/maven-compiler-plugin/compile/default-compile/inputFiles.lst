@@ -1,0 +1,16 @@
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/entity/Report.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/service/EmployeeService.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/repository/ReportRepository.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/service/UserDetail.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/repository/EmployeeRepository.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/controller/EmployeeController.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/entity/Employee.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/controller/TopController.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/service/UserDetailService.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/service/ReportService.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/SecurityConfig.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/controller/ReportController.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/constants/ErrorKinds.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/DailyReportSystemApplication.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/constants/ErrorMessage.java
+/Users/takumi/Downloads/lyta-dailyreport-system/src/main/java/com/techacademy/TomcatConfiguration.java
